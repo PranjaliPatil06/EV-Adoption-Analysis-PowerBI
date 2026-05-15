@@ -17,7 +17,8 @@ This Power BI dashboard analyzes Electric Vehicle adoption trends, manufacturer 
 - Data Visualization
 
 ## Dashboard Preview
-(Add screenshots here)
+-Page 1
+-Page 2
 
 ## Conclusion
 The project provides insights into EV market trends and demonstrates interactive business intelligence reporting using Power BI.
