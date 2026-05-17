@@ -26,7 +26,3 @@ The project provides insights into EV market trends and demonstrates interactive
 ## Author
 
 Pranjali Patil
-
-
-##Author
-Pranjali Patil
